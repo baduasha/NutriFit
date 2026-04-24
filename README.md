@@ -54,15 +54,21 @@ https://drive.google.com/drive/folders/1wKh24Te_4Bgy084CvmErIim_Ri6dh_SJ?usp=sha
 
 ## 🗂 Структура проекта
 NutriFit/
+├── apk/                         # готовый APK
+├── training/                    # код обучения модели
+├── screenshots/                 # скриншоты приложения
 ├── app/src/main/
-│ ├── assets/ # здесь лежат .tflite и labels.txt (игнорируются Git)
-│ ├── java/.../nutrifit/
-│ │ ├── FoodClassifier.java # загрузка модели и инференс
-│ │ └── MainActivity.java # логика камеры, галереи, расчёта калорий
-│ ├── res/ # ресурсы: layout, drawable, xml
-│ └── AndroidManifest.xml
-├── build.gradle # настройки сборки проекта
-└── README.md # этот файл
+│   ├── assets/                  # .tflite и labels.txt (игнорируются Git)
+│   ├── java/.../nutrifit/
+│   │   ├── FoodClassifier.java  # загрузка модели и инференс
+│   │   └── MainActivity.java    # логика камеры, галереи, расчёта калорий
+│   ├── res/                     # ресурсы: layout, drawable, xml
+│   └── AndroidManifest.xml
+├── build.gradle
+├── settings.gradle
+├── .gitignore
+├── LICENSE
+└── README.md
 
 ## 📄 Лицензия
 
