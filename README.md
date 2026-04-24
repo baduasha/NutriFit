@@ -76,8 +76,7 @@ NutriFit/
 │   │       │   ├── food_classifier_float32.tflite (игнорируется)
 │   │       │   └── labels.txt
 │   │       └── AndroidManifest.xml
-│   ├── build.gradle
-│   └── ...
+│   └──  build.gradle
 ├── training/
 │   ├── train_model.ipynb
 │   └── requirements.txt
