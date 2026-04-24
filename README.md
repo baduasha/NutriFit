@@ -87,6 +87,9 @@ NutriFit/
 ├── .gitignore
 └── README.md
 ```
+##  Демонстрация работы
+
+[![Смотреть демо работы приложения](screenshots/demo_preview.gif)](https://drive.google.com/file/d/19IqvUGHkUughF0ha1LhDlerDcjqsFI_b/view?usp=sharing)
 ##  Лицензия
 
 MIT License. Проект выполнен в учебных целях.
