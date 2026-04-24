@@ -49,6 +49,8 @@ https://drive.google.com/drive/folders/1wKh24Te_4Bgy084CvmErIim_Ri6dh_SJ?usp=sha
 - **Фреймворк:** PyTorch
 - **Аугментация:** RandomHorizontalFlip, RandomRotation, ColorJitter
 - **Точность на валидации:** 80.8%
+Полный код обучения в Google Colab см. в папке [training/](training/).
+
 
 ## 🗂 Структура проекта
 NutriFit/
