@@ -54,6 +54,7 @@ https://drive.google.com/drive/folders/1wKh24Te_4Bgy084CvmErIim_Ri6dh_SJ?usp=sha
 
 
 ## 🗂 Структура проекта
+```text
 NutriFit/
 ├── apk/                         # готовый APK
 
@@ -74,15 +75,10 @@ NutriFit/
 │   ├── res/                     # ресурсы: layout, drawable, xml
 
 │   └── AndroidManifest.xml
-
 ├── build.gradle
-
 ├── settings.gradle
-
 ├── .gitignore
-
-├── LICENSE
-
+```
 └── README.md
 
 ## 📄 Лицензия
