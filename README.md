@@ -55,8 +55,8 @@ https://drive.google.com/drive/folders/1wKh24Te_4Bgy084CvmErIim_Ri6dh_SJ?usp=sha
 
 ## 🗂 Структура проекта
 NutriFit/
-├── apk/                         # готовый APK
 
+├── apk/                         # готовый APK
 ├── training/                    # код обучения модели
 
 ├── screenshots/                 # скриншоты приложения
